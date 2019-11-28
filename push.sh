@@ -1,0 +1,1 @@
+docker push gabrielmilan/jupyter-tensorflow-gpu-atlas
